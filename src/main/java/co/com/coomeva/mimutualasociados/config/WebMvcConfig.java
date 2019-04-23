@@ -10,7 +10,6 @@ package co.com.coomeva.mimutualasociados.config;
 
 import java.util.Arrays;
 import java.util.Locale;
-
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.cors.CorsConfiguration;

@@ -28,6 +28,6 @@ public class ConstantesSeguridad {
      * Constructor de la clase	
      * */
 	private ConstantesSeguridad() {
-		throw new IllegalStateException("constantesSeguridad class");
+		throw new IllegalStateException("ConstantesSeguridad.class");
 	}
 }
